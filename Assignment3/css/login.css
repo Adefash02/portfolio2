@@ -111,7 +111,7 @@ section a {
 }
 
 .submit-btn:hover {
-    background: #000;
+    background: #355FEC;
     transform: scale(1.05, 1);
 }
 
