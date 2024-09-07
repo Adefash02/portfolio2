@@ -14,6 +14,9 @@ body {
     background: #dfdfdf;
 }
 
+
+/*          SING UP BOX          */
+
 .signup-box {
     display: flex;
     justify-content: center;
@@ -33,6 +36,9 @@ body {
     font-size: 30px;
     font-weight: 600;
 }
+
+
+/*             INPUT FIELD             */
 
 .input-box .input-field {
     width: 100%;
@@ -56,6 +62,9 @@ body {
     width: 105%;
 }
 
+
+/*              FORGET PASSWORD        */
+
 .forget {
     display: flex;
     justify-content: space-between;
@@ -69,9 +78,15 @@ section {
     color: #555;
 }
 
+
+/*             CHECKBOX                 */
+
 #check {
     margin-right: 10px;
 }
+
+
+/*             ALL LINK                 */
 
 a {
     text-decoration: none;
@@ -84,6 +99,9 @@ a:hover {
 section a {
     color: #555;
 }
+
+
+/*               SUBMIT BUTTON          */
 
 .input-submit {
     position: relative;
@@ -114,6 +132,9 @@ section a {
     background: #355FEC;
     transform: scale(1.05, 1);
 }
+
+
+/*              LOGIN LINK              */
 
 .login-link {
     text-align: center;
