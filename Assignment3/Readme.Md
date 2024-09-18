@@ -38,8 +38,8 @@ HTML: Structure the webpage content.
 CSS: Style the layout and appearance of the website.
 JavaScript: Add interactivity and dynamic features.
 Vitual studio code: plugin software
-Installation
 
+Installation
 Clone the repository:
 Bash
 https://github.com/Adefash02/portfolio2.git
