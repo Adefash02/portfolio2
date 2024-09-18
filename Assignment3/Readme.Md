@@ -22,11 +22,22 @@ Shopping Cart: Enable users to add, remove, and view items in their cart.
 Checkout Process: Provide a secure and efficient checkout experience.
 User Account: Allow users to create accounts, manage their information, and track orders.
 Personalized Recommendations: Suggest products based on user preferences and purchase history.
-Technologies Used
+Save and shop: Provide coupon code to redeem for every users that patronize us, whinch users later used purchase our product
 
+Objectives of Smart Shopper
+Main Objective:* To provide shoppers with an easy-to-use tool that helps them make smarter decisions and have savings during shoping in online store.
+
+Specific Goals:
+       - Compare prices across platforms in real time.
+       - Offer personalized deal recommendations based on user preferences.
+       - Integrate sustainability data to promote eco-friendly purchasing.
+       - Implement budgeting features to help users stay within their spending limits.
+
+Technologies Used
 HTML: Structure the webpage content.
 CSS: Style the layout and appearance of the website.
 JavaScript: Add interactivity and dynamic features.
+Vitual studio code: plugin software
 Installation
 
 Clone the repository:
