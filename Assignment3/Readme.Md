@@ -1,6 +1,5 @@
-Smart Shopper Project
+SMART SHOPPER Project
 Overview
-
 The Smart Shopper project is a web application designed to enhance the online shopping experience. It combines the power of HTML, CSS, and JavaScript to create an intuitive and visually appealing interface for users.
 
 Team Members
@@ -32,7 +31,7 @@ Installation
 
 Clone the repository:
 Bash
-t
+https://github.com/Adefash02/portfolio2.git
 Use code with caution.
 
 Open the project in your code editor.
